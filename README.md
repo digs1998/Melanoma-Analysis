@@ -23,3 +23,5 @@ for installation of plotly [refer](https://plotly.com/python/)
 7. [Numpy](https://numpy.org/)
 
 # Data Visualisations
+
+![alt text](https://github.com/[digs1998]/[Melanoma-Analysis]/blob/[Master]/Capture.PNG?raw=true)
